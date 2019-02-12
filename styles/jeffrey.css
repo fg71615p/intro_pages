@@ -1,0 +1,36 @@
+.picture {
+    width: 100%;
+    border-radius: 03px;
+    margin: 5%;
+}
+#pictures {
+    width: 50%;
+    float: left;
+}
+#name {
+font-family: 'Source Sans Pro', sans-serif;
+
+    text-align: center;
+    color: white;
+    font-size: 72px;
+}
+#header {
+    background-color: black;
+    width: 100%;
+}
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+
+    font-size: 50px;
+    line-height: 10px;
+}
+p, ul {
+ font-family: 'Source Sans Pro', sans-serif;
+
+    padding: 0% 5% 0% 5%;
+}
+#bio {
+    display: block;
+    width: 40%;
+    float: right;
+}
