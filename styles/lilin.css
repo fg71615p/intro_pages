@@ -1,0 +1,33 @@
+#bio{
+    display: block;
+    width: 60%;
+    float: right;
+}
+#name{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    font-size: 72px;
+}
+#header {
+    background-color: rgb(250, 213, 2);
+    width: 100%;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    line-height: 10px;
+}
+p, ul {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0% 5% 0% 5%;
+}
+#pictures {
+    width: 30%;
+    float: left;
+}
+.picture {
+    width: 100%;
+    border-radius: 20px;
+    margin: 5%;
+}
