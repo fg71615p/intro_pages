@@ -1,0 +1,20 @@
+#inline {
+  display: inline-block;
+  padding-left: 360px;
+}
+#titletop {
+  color: white;
+}
+#bodyfix {
+  margin-left: 200;
+  margin-right: 200;
+  background-color: black;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-size: 20;
+  color: white;
+}
