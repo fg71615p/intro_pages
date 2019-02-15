@@ -1,0 +1,25 @@
+* { box-sizing: border-box; }
+header, nav, main, footer { display: block; }
+body { background-color: #FF5733; 
+      color: #221811;
+      font-family: Verdana, Arial, sans-serif;
+}
+
+
+header { background-color: #E7F2F4;
+        height: 150px;
+}
+
+p { margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	font-weight: bold;
+}
+
+img { padding-left: 10px;
+     padding-right: 10px;
+     width: 350px;
+     height: 420px;
+}
+
+
