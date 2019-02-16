@@ -1,0 +1,43 @@
+.picture {
+    width: 100%;
+    border-radius: 20px;
+    margin: 2%;
+}
+#pictures {
+    width: 40%;
+    float: left;
+}
+.rotateimg270 {
+    -webkit-transform:rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
+    width: 100%;
+    border-radius: 20px;
+    margin: 2%;
+  }
+#name {
+    font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, ;
+    text-align: center;
+    color: white;
+    font-size: 72px;
+}
+#header {
+    background-color: lightblue;
+    width: 100%;
+}
+h3 {
+    font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif'cursive;
+    font-size: 50px;
+    line-height: 10px;
+}
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+    padding: 0% 5% 0% 5%;
+}
+#bio {
+    display: block;
+    width: 55%;
+    float: right;
+}
