@@ -1,0 +1,27 @@
+
+header {
+		height: 150px;
+	background-color: #D2B48C; text-align: center;
+}	
+
+h1 { 
+	font-style: italic;
+	text-align: center;
+	line-height: 200%
+}
+h2 { 
+	font-style: italic;
+	text-align: center;
+	line-height: 200%
+}
+p { 
+	font-style: italic;
+	text-align: center;
+	text-align:center; font-weight: bold;
+}
+
+
+
+body {
+    background-color: #FCEBB6; color: #221811; font-family: Verdana; width: 80%; margin-right: auto; margin-left: auto;
+}
