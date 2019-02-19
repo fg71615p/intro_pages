@@ -1,0 +1,31 @@
+.picture {
+    width: 150%;
+    margin:-100%;
+    float:right;
+}
+#pictures {
+    width: 30%;
+    float: right;
+}
+#name {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    color: white;
+    font-size: 72px;
+}
+#header {
+    background-color:lightblue;
+    width: 100%;
+}
+h3 {
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+    line-height: 10px;
+}
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+}
+#bio {
+    display: block;
+    width: 60%;
+}
