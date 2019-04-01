@@ -1,0 +1,40 @@
+
+header, nav, main, footer { display: block; }
+body { background-color: #E6EAC2;
+       color: #221811;
+       font-family: Verdana, Arial, sans-serif;
+	   margin: 50px 100px 50px 100px;
+	   padding: 16px;
+}
+
+#imagen1 {margin-right: 100px;
+         }
+#Good { margin-top: 3px;
+        margin-right: 100px;
+		margin-left: 280px;
+        margin-bottom: 30px;
+		font-size: 25px;
+		}
+		
+#Pace { font-size: 25px;
+        margin-left: 10px;}
+		
+img {margin-left: 10px;}
+
+
+header { background-color:#E6EAC2;
+        height: 50px;
+        text-align: center;
+        padding-top: 0;
+		}
+		
+
+footer { background-color: #E6EAC2;
+       font-size: small;
+	   font-style: italic;
+	   text-align: center;
+	   padding-top: 100px;
+	   
+}
+
+
