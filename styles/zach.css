@@ -1,0 +1,23 @@
+#bio {
+    display: block;
+    float: left;
+    width: 75%;
+}
+p {
+    font-size: 24px;
+    font-family: 'Gill Sans';
+    background-color: lightgray;
+}
+h2{
+    font-size: 48px;
+    font-family: 'Times New Roman';
+    background-color: lavender;
+}
+#pictures {
+    width: 80%;
+    border-radius: 2.5%
+}
+#name{
+    font-size: 40px;
+    font-family: 'Cedarville Cursive';
+}
